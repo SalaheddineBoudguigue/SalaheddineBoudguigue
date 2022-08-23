@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalaheddineBoudguigue
 - 👀 I’m interested in problem solving and playing football
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently taking CS50
 - 💞️ I’m looking to collaborate on programming journey
 - 📫 How to reach me : saladin.bdg@gmail.com or my instagram account : salaheddine_bdg
 
